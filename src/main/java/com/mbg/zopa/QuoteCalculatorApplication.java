@@ -19,6 +19,8 @@ import com.mbg.zopa.service.ValidationService;
  * @author Manuel
  *
  */
+ 
+ //TETSTTTT
 @SpringBootApplication
 public class QuoteCalculatorApplication implements CommandLineRunner {
 
