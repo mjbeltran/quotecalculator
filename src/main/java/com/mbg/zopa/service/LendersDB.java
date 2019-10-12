@@ -15,6 +15,8 @@ public interface LendersDB {
 
 	public long getAvailableLendersAmount();
 
-	public void setCurrentLenders(List<Lender> currentLenders);
+	public void setCurrentLenders(List<Lender> currentLenders
+	
+	///Tes22222
 
 }
