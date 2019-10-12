@@ -13,3 +13,6 @@ public interface ValidationService {
 
 	void validateMarketHasMoneyForLoan(Integer requestedAmount, long availableLendersAmount);
 }
+
+
+//TESTSSSSSS
