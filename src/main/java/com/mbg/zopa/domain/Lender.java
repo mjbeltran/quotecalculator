@@ -22,6 +22,8 @@ public final class Lender implements Comparable<Lender> {
 	public String getLender() {
 		return name;
 	}
+	
+	//TESTTTTT
 
 	public double getRate() {
 		return rate;
