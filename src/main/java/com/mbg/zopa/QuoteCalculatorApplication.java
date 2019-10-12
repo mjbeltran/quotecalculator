@@ -73,4 +73,6 @@ public class QuoteCalculatorApplication implements CommandLineRunner {
 			System.exit(-1);
 		}
 	}
+	
+	//TEST!2222222222222222222222222
 }
